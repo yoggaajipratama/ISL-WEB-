@@ -1,0 +1,9 @@
+body {
+  margin: 0.5rem;
+  padding: 0rem;
+  font-family: sans-serif;
+  max-width: 28rem;
+  margin: 0 auto;
+  position: relative;
+  background-color: darkgray;
+}
